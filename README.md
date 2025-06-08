@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/assets/Full%20Logo/Logo%20Light%20Mode.svg" alt="ZustyRush Logo" width="150" />
+  <img src="public/assets/Full%20Logo/Logo%20Light.svg" alt="ZustyRush Logo" width="150" />
   <h1>ZustyRush 🍔</h1>
   <p><strong>Frontend Fast Food Ordering Web App</strong></p>
   <p>A stylish, demo e-commerce project to explore creative frontend development using modern tools like React, Vite, Redux Toolkit, and TypeScript.</p>
